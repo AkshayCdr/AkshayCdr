@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on simple HTTP-SERVER using net module
 - 🌱 I’m currently learning Javascript 
-- 💬 Ask me about 
+- 💬 Ask me about JAVASCRIPT
 - 📫 How to reach me: akshaychandra418@gmail.com
-- ⚡ Fun fact:
+- ⚡ Fun fact: Javascript 
 
 ###
 
