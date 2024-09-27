@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on simple HTTP-SERVER using net module
-- 🌱 I’m currently learning Javascript 
-- 💬 Ask me about JAVASCRIPT
+- 🔭 I’m currently working on web
+- 🌱 I’m currently learning webRTC
+- 💬 Ask me about TYPESCRIPT
 - 📫 How to reach me: akshaychandra418@gmail.com
-- ⚡ Fun fact: Javascript 
+- ⚡ Fun fact: 
 
 ###
 
