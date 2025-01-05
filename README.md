@@ -4,10 +4,8 @@
 
 
 - 🔭 I’m currently working on web
-- 🌱 I’m currently learning webRTC
 - 💬 Ask me about TYPESCRIPT
 - 📫 How to reach me: akshaychandra418@gmail.com
-- ⚡ Fun fact: 
 
 ###
 
